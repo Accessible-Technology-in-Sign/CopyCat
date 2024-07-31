@@ -1,0 +1,36 @@
+{
+	"phrase_metadata": {
+		"version": "1.0",
+		"min_phrase_length": "3",
+		"max_phrase_length": "3",
+		"total_num_phrases": "20"
+	},
+	"data": {
+		"3-word": {
+			"num_phrases": "20",
+			"format": "subject_preposition_objofpreposition",
+			"phrases": [
+				"alligator_above_chair",
+				"alligator_above_wall",
+				"alligator_above_bed",
+				"lion_above_bed",
+				"lion_above_box",
+				"lion_above_flowers",
+				"lion_above_wall",
+				"snake_above_wall",
+				"snake_above_box",
+				"monkey_above_chair",
+				"monkey_above_wall",
+				"alligator_in_box",
+				"alligator_in_wagon",
+				"snake_in_flowers",
+				"monkey_in_box",
+				"lion_below_chair",
+				"snake_below_bed",
+				"snake_below_chair",
+				"monkey_below_bed",
+				"monkey_below_wagon"
+			]
+		}
+	}
+}
